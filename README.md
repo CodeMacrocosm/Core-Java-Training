@@ -49,7 +49,7 @@ Copyright (c) 2021 CodeMacrocosm
 
 ## 🔥 Get ready to code, learn, and excel in Java! 🚀
 
-No matter if you're a beginner looking to start your programming journey or an experienced developer aiming to master Java, this training has something valuable for everyone. Let's embark on this Java adventure together! 💪👩‍💻🔥
+No matter if you're a beginner looking to start your programming journey or an experienced developer aiming to master Java, this training has something valuable for everyone. Let's embark on this Java adventure together! 👩‍💻
 
 ## 🌐 Stay Connected
 
