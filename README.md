@@ -42,6 +42,11 @@ If you find these tutorials helpful and inspiring, show your support by starring
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+MIT License
+
+Copyright (c) 2021 CodeMacrocosm
+
+
 ## 🔥 Get ready to code, learn, and excel in Java! 🚀
 
 No matter if you're a beginner looking to start your programming journey or an experienced developer aiming to master Java, this training has something valuable for everyone. Let's embark on this Java adventure together! 💪👩‍💻🔥
